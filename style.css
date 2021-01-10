@@ -330,3 +330,287 @@ footer{
     font-size: 0.7rem;
     color:var(--gray);
 }
+
+.creation_mobile{
+    display:none;
+}
+@media screen and (max-width:678px){
+
+    .nav_menu{
+        display: none;
+}    
+   
+    .hamburger{
+        display: block;
+        position:absolute;
+        right:20px;
+        font-size:2rem;
+    }
+
+    .logo{
+        position:absolute;
+        left:20px; 
+        width: 200px;
+    }
+
+    .hero_bg{
+        background-image: url("images/desktop/image-hero.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 700px;
+        position: relative;
+    }
+
+    .hero_text{
+        position:absolute;
+        left:5%;
+        right:5%;
+       bottom:30%;
+        font-size: 4rem;
+     
+        
+    } 
+    .vr{
+        padding: 100px 20px;
+      
+    
+    }
+    .vr img{
+       width: 100%;
+    }
+
+    .vr_text{
+        width: 100%;
+        position:relative;
+        text-align:center;
+        padding: 60px 20px 0 20px;
+        right:auto;
+        
+    }
+    .vr p{
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
+
+.creation{
+    display:none;
+}
+
+.creation_mobile{
+    display:block;
+    padding: 0px 0px 100px;
+
+  
+}
+
+.creation_title{
+    display:block;
+    text-align: center;
+    margin: 0 auto;
+    width:100%;
+  
+  
+}
+
+
+
+.image1{
+   position: relative;
+    display: block;
+  
+    max-width:100%;
+    padding-bottom:10px;
+ 
+}
+.caption1{
+
+    position: absolute;
+    bottom:40px;
+    left:20px;
+    font-family: 'Josefin Sans', sans-serif;  
+    color:var(--white);
+    font-size:2rem;
+    text-transform: uppercase;
+ 
+}
+
+
+.image2{
+    position: relative;
+     display: block;
+   
+     max-width:100%;
+     padding-bottom:10px;
+  
+ }
+ .caption2{
+ 
+     position: absolute;
+     bottom:40px;
+     left:20px;
+     font-family: 'Josefin Sans', sans-serif;  
+     color:var(--white);
+     font-size:2rem;
+     text-transform: uppercase;
+  
+ }
+
+ .image3{
+    position: relative;
+     display: block;
+   
+     max-width:100%;
+     padding-bottom:10px;
+  
+ }
+ .caption3{
+ 
+     position: absolute;
+     bottom:40px;
+     left:20px;
+     font-family: 'Josefin Sans', sans-serif;  
+     color:var(--white);
+     font-size:2rem;
+     text-transform: uppercase;
+  
+ }
+ .image4{
+    position: relative;
+     display: block;
+   
+     max-width:100%;
+     padding-bottom:10px;
+  
+ }
+ .caption4{
+ 
+     position: absolute;
+     bottom:40px;
+     left:20px;
+     font-family: 'Josefin Sans', sans-serif;  
+     color:var(--white);
+     font-size:2rem;
+     text-transform: uppercase;
+  
+ }
+
+ .image5{
+    position: relative;
+     display: block;
+   
+     max-width:100%;
+     padding-bottom:10px;
+  
+ }
+ .caption5{
+ 
+     position: absolute;
+     bottom:40px;
+     left:20px;
+     font-family: 'Josefin Sans', sans-serif;  
+     color:var(--white);
+     font-size:2rem;
+     text-transform: uppercase;
+  
+ }
+
+
+ .image6{
+    position: relative;
+     display: block;
+   
+     max-width:100%;
+     padding-bottom:10px;
+  
+ }
+ .caption6{
+ 
+     position: absolute;
+     bottom:40px;
+     left:20px;
+     font-family: 'Josefin Sans', sans-serif;  
+     color:var(--white);
+     font-size:2rem;
+     text-transform: uppercase;
+  
+ }
+
+ .image7{
+    position: relative;
+     display: block;
+   
+     max-width:100%;
+     padding-bottom:10px;
+  
+ }
+ .caption7{
+ 
+     position: absolute;
+     bottom:40px;
+     left:20px;
+     font-family: 'Josefin Sans', sans-serif;  
+     color:var(--white);
+     font-size:2rem;
+     text-transform: uppercase;
+  
+ }
+
+ .image8{
+    position: relative;
+     display: block;
+   
+     max-width:100%;
+     padding-bottom:10px;
+  
+ }
+ .caption8{
+ 
+     position: absolute;
+     bottom:40px;
+     left:20px;
+     font-family: 'Josefin Sans', sans-serif;  
+     color:var(--white);
+     font-size:2rem;
+     text-transform: uppercase;
+  
+ }
+
+
+ .seeall_btn_m{
+    text-align: center;
+    width:30%;
+    margin: 0 auto;
+    font-size: 1rem;
+    margin-top:20px;
+    padding:15px 20px 15px 20px;
+    border: 2px solid var(--dark-gray);
+    color: var(--dark-gray);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    
+}
+
+footer{
+    display:block;
+    text-align: center;
+
+}
+
+.footer_logo{
+    width: 150px;
+}
+.footer_menu{
+    display:block;
+}
+
+.footer_menu li{
+    padding:10px;
+    font-size:1rem;
+}
+.footer_right{
+
+    padding-top:30px;
+}
+}
