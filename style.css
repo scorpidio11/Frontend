@@ -131,6 +131,7 @@ h3{
 .creation_images_row1{
 
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     padding: 0 4px 12px;
 }
@@ -138,7 +139,7 @@ h3{
 .image1{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
 }
 .caption1{
 
@@ -156,7 +157,7 @@ h3{
 .image2{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
 
 }
 
@@ -175,7 +176,7 @@ h3{
 .image3{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
    
 }
 .caption3{
@@ -193,7 +194,7 @@ h3{
 .image4{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
  
 }
 .caption4{
@@ -213,13 +214,13 @@ h3{
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
-    
+    justify-content: space-between;
 }
 
 .image5{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
  
 
 }
@@ -237,7 +238,7 @@ h3{
 .image6{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
  
 }
 .caption6{
@@ -255,7 +256,7 @@ h3{
 .image7{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
  
 }
 .caption7{
@@ -271,7 +272,7 @@ h3{
 .image8{
     position: relative;
     display: inline-block;
-    width:25%;
+    width:23%;
    
 }
 .caption8{
