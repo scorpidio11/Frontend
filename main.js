@@ -1,14 +1,3 @@
-// const toggleBtn = document.querySelector('.hamburger_btn');
-// const menu = document.querySelector('.nav_menu');
-
-// toggleBtn.addEventListener('click', () =>
-// {
-//      menu.classList.toggle('active');
-  
-// });
-
-
-
 
 
 const mainMenu = document.querySelector('.nav_menu nav');
